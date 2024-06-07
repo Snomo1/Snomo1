@@ -42,8 +42,3 @@
 ![Footer](https://your-image-url.com/footer.png)
 
 
-
-This is my current version 1 file.
-
-I will make changes into it one by one. Guide me. 
-First suggest me how we can improve the paragraph visually?
