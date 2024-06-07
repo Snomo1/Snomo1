@@ -1,4 +1,4 @@
-# Hi there, I'm Swagatam Biswas (Snom01) 👋
+# Hi there, I'm Swagatam Biswas 👋
 
 ![Header](https://your-image-url.com/header.png)
 
@@ -26,7 +26,7 @@
 ![Seaborn](https://img.shields.io/badge/Seaborn-black?style=flat&logo=seaborn)
 
 ## GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Snom01&show_icons=true&hide_border=true)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Snomo1&show_icons=true&hide_border=true)
 
 ## Recent Activity
 <!--START_SECTION:activity-->
