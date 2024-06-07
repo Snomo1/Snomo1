@@ -1,5 +1,3 @@
-# Hi there, I'm Swagatam Biswas 👋
-
 <div style="display: flex; align-items: center;">
   <img src="https://github.com/Snomo1/Snomo1/blob/main/Riki.jpg?raw=true" alt="Header" style="width:30%;max-width:200px; border-radius: 50%; margin-right: 20px;">
   <div>
