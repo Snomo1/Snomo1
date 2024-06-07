@@ -1,6 +1,6 @@
 # Hi there, I'm Swagatam Biswas 👋
 
-<img src="https://your-image-url.com/your-image.png" alt="Header" style="width:100%;max-width:800px;" />
+<img src="https://github.com/Snomo1/Snomo1/blob/main/Riki.jpg?raw=true" alt="Header" style="width:100%;max-width:800px;" />
 
 ## About Me
 - 🎓 I'm a student with one year of work experience in Data Science.
