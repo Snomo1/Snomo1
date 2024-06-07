@@ -1,6 +1,6 @@
 # Hi there, I'm Swagatam Biswas 👋
 
-![Header](https://your-image-url.com/header.png)
+![Header](https://github.com/Snomo1/Snomo1/blob/main/Riki.jpg?raw=true)
 
 ## About Me
 - 🎓 I'm a student with one year of work experience in Data Science.
