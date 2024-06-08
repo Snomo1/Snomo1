@@ -11,7 +11,7 @@
 
 
 
-
+#
 
 - 🎓 I'm a student with one year of work experience in Data Science.
 - 📚 Currently applying to German universities for a Master's in Data Science.
