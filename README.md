@@ -36,7 +36,7 @@
 ![Seaborn](https://img.shields.io/badge/Seaborn-black?style=flat&logo=seaborn)
 
 ## GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Snomo1&show_icons=true&hide_border=true)
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=snomo1&show_icons=true&locale=en" alt="snomo1" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=snomo1&" alt="snomo1" /></p>
