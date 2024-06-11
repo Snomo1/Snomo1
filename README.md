@@ -9,8 +9,6 @@
   </div>
 </div>
 
-
-
 #
 
 - 🎓 I'm a student with one year of work experience in Data Science.
