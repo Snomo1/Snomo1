@@ -13,7 +13,6 @@
 - 💬 Ask me about data analysis, Python, and machine learning.
 - 📫 How to reach me: swagatambsws.biswas@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: 
 
 ## Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/swagatambiswas747/)
