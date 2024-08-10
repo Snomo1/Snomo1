@@ -6,9 +6,9 @@
 
 
 
-- 🎓 I'm a student with one year of work experience in Data Science.
+- 🎓 With more than 2 years of work experience in data cleaning and analysing.
 - 📚 Currently applying to German universities for a Master's in Data Science.
-- 🌱 I’m currently learning advanced machine learning techniques and deep learning frameworks.
+- 🌱 My current objective is to learn advanced machine learning techniques and deep learning frameworks.
 - 👯 I’m looking to collaborate on open-source data science projects.
 - 💬 Ask me about data analysis, Python, and machine learning.
 - 📫 How to reach me: swagatambsws.biswas@gmail.com
