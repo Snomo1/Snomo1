@@ -33,9 +33,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=snomo1&" alt="snomo1" /></p>
 
-## Recent Activity
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
+
 
 
 
