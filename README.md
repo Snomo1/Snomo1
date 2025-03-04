@@ -10,9 +10,10 @@
 - 📚 Currently applying to German universities for a Master's in Data Science.
 - 🌱 My current objective is to learn advanced machine learning techniques and deep learning frameworks.
 - 👯 I’m looking to collaborate on open-source data science projects.
+- 😄My hobby is developing Pixel Art video games from scratch.
 - 💬 Ask me about data analysis, Python, and machine learning.
 - 📫 How to reach me: swagatambsws.biswas@gmail.com
-- 😄 Pronouns: He/Him
+
 
 ## Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/swagatambiswas747/)
