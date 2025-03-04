@@ -11,7 +11,7 @@
 - 🌱 My current objective is to learn advanced machine learning techniques and deep learning frameworks.
 - 👯 I’m looking to collaborate on open-source data science projects.
 - 😄My hobby is developing Pixel Art video games from scratch.
-- 💬 Ask me about data analysis, Python, and machine learning.
+- 💬 Ask me about data analysis, Python, machine learning and game development.
 - 📫 How to reach me: swagatambsws.biswas@gmail.com
 
 
