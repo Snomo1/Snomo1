@@ -6,6 +6,7 @@
 
 
 
+- 🎓 With more than 5 years of hands-on experience in game development (Python & GDScript).
 - 🎓 With more than 2 years of work experience in data cleaning and analysing.
 - 📚 Currently applying to European universities for a Master's in Data Science.
 - 🌱 My current objective is to learn advanced machine learning techniques and deep learning frameworks.
