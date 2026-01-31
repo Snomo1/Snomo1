@@ -8,7 +8,7 @@
 
 - 🎓 With more than 5 years of hands-on experience in game development (Python & GDScript).
 - 🎓 With more than 2 years of work experience in data cleaning and analysing.
-- 📚 Currently applying to European universities for a Master's in Data Science.
+- 📚 Currently studying Master's in applied AI at Luleå Tekniska Universitet.
 - 🌱 My current objective is to learn advanced machine learning techniques and deep learning frameworks.
 - 👯 I’m looking to collaborate on open-source data science projects.
 - 😄My hobby is developing Pixel Art video games from scratch.
